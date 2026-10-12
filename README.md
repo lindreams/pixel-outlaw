@@ -2,7 +2,7 @@
 
 一个网页可玩的西部牛仔像素风俯视角射击小游戏。边移动、边射击，在一波波敌人中活下来。
 
-**[在线试玩](https://lingmeng-658.github.io/pixel-outlaw/)**
+**[在线试玩](https://lindreams.github.io/pixel-outlaw/)**
 
 ## 怎么玩
 

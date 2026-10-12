@@ -35,7 +35,7 @@ Player assets should not be downscaled to 32×32 unless future gameplay readabil
 当前线上试玩地址：
 
 ```txt
-https://lingmeng-658.github.io/pixel-outlaw/
+https://lindreams.github.io/pixel-outlaw/
 ```
 
 当前部署方式：

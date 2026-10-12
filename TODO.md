@@ -63,7 +63,7 @@
 当前线上试玩地址：
 
 ```txt
-https://lingmeng-658.github.io/pixel-outlaw/
+https://lindreams.github.io/pixel-outlaw/
 ```
 
 ## 文档和收尾习惯

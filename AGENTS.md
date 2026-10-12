@@ -2,7 +2,7 @@
 
 本文件是给 Codex / 编码 Agent 读取的仓库级协作规则。
 
-项目仓库：`lingmeng-658/pixel-outlaw`
+项目仓库：`lindreams/pixel-outlaw`
 
 项目定位：基于 Vite + TypeScript + Phaser 的西部像素风俯视角射击小游戏。
 
